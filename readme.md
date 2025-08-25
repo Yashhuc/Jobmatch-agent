@@ -54,6 +54,7 @@ This project enables job seekers to match their resume with relevant job posting
 
 ```bash
 cd path/to/jobmatch-agent
+Upload your resume file(s) (PDF format) into the src/samples/ folder.
 python3 -m venv .venv
 source .venv/bin/activate
 

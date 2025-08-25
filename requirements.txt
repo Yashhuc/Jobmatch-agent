@@ -1,0 +1,10 @@
+torch                    
+sentence-transformers     
+requests                
+python-dotenv            
+pydantic-settings        
+fastapi
+uvicorn[standard]
+postmarker            
+portia-sdk-python[google] 
+google-generativeai   
